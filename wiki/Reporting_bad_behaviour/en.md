@@ -40,16 +40,16 @@ If there are spaces in the username, replace them with underscores:
 
 ### Profile page
 
-![](img/report-user-profile.png "The report button on a profile page")
+![](img/report-profile.png "The report button on a profile page")
 
-![](img/report-user-web.png "Report dialog on the website")
+![](img/report-profile-dialogue.png "Report dialog on the website")
 
 1. Press the button with three vertical dots and select `Report`.
 2. Select the category and add details (optional).
 
 ### Forum
 
-![](img/report-user-forum.png "The report button on a forum post - Peeb being relentlessly 'meanieman' towards peppy")
+![](img/report-forum-post.png "The report button on a forum post - Peeb being relentlessly 'meanieman' towards peppy")
 
 1. Hover the cursor over the post.
 2. In a row of buttons that appear in the top right corner of the post, click the button with a warning sign.
