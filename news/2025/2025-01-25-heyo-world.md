@@ -14,6 +14,6 @@ Currently, we offer RX leaderboards. That's the only custom feature right now. S
 
 Zen is closed to the public at the time of writing, and the reason for this is pretty simple: **If I'm gunna drop this, it's going to be fucking perfect.** Stay tuned for more news and updates on our features!
 
--[peppy](https://zen.anekodot.lol/users/2)
+(psst, shoutout to [**Dexitry**](https://zen.anekodot.lol/users/3) and [**Peeblyweeb**](https://zen.anekodot.lol/users/6) for all their help and hard work in making this project a reality!)
 
-> (psst, shoutout to [Dexitry](https://zen.anekodot.lol/users/3) and [Peeblyweeb](https://zen.anekodot.lol/users/6) for all their help and hard work in making this project a reality!)
+-[peppy](https://zen.anekodot.lol/users/2)
