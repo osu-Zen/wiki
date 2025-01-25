@@ -1,6 +1,6 @@
 # Silence
 
-**Silence** is the term used to describe the punishment of limiting a user's means of communications within the osu! community. Members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) typically issue these silences to maintain a clean environment, both on the website and in-game.
+**Silence** means limiting a user's means of communications within the Zen community. Members of the [GMT](/wiki/People/Global_Moderation_Team) and [NAT](/wiki/People/Nomination_Assessment_Team) typically issue these silences to maintain a clean environment, both on Zen's website and in-game.
 
 ## Limitations
 
@@ -16,8 +16,9 @@ A user who has an active silence cannot do the following:
 - Take part in [beatmap discussions](/wiki/Beatmap_discussion).
 - Edit profile details, change the avatar, cover and userpage.
 - Submit and update beatmaps.
-- Partake in [multiplayer](/wiki/Client/Interface/Multiplayer) games.
+- Join or create [multiplayer](/wiki/Client/Interface/Multiplayer) games.
 
+> **TODO:** *Edit this image to show a silence in the Zen client, and not osu!Stable. We don't support stable!*
 ::: Infobox
 ![](img/silence-ingame.png "Silence warning in the chat")
 :::
@@ -40,9 +41,8 @@ In some cases, users may receive a final warning before an [account restriction]
 Some common reasons why users get silenced in public chat include, but are not limited to:
 
 - **Spamming or flooding:** Self-explanatory.
-- **Caps abuse:** Chatting with all uppercase letters.
 - **Inappropriate behaviour/conversation:** The public chat is not a place for discussions not appropriate for all ages, or for inflammatory topics.
-- **Racism:** Discrimination or hatred based on race, religion, gender, sexual orientation, etc.
+- **Discrimination:** Discrimination or hatred based on race, religion, gender, sexual orientation, etc.
 - **Advertising:** Promoting products or services. This includes Discord invite links and streaming links such as Twitch and YouTube.
 - **Unwanted content:** Websites containing piracy, screamers, referrals and the like.
 
@@ -54,10 +54,6 @@ Silences may also be given to users for other reasons, such as (but not limited 
 
 ## Appealing
 
-While silences are implemented to maintain a positive community environment, errors can occur. If you believe that the silence issued to you was an error or unjustified, kindly contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain the situation.
+While silences are implemented to maintain a positive community environment, errors can occur. If you believe that the silence issued to you was an error or unjustified, create a ticket on our Discord server and we can discuss the issue further with the Zen staff team.
 
-Keep in mind that you must use the email address associated with your osu! account and mention your username to confirm it's you.
-
-## References
-
-[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
+Keep in mind that **you are required to have linked your Zen account to our Discord. Information on how to do this can be found in our Discord.**
