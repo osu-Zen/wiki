@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Welcome to the osu! wiki, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game.
+Welcome to Zen's wiki! This page contains everything you'll need to know about our osu! fork. This page is very incomplete; Many dead links, and incorrect information. We're working on more important pre-release stuff, sorry!
 </div>
 
 <div class="wiki-main-page__panels">

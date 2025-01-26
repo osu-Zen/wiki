@@ -7,9 +7,9 @@ tags:
   - missing
 ---
 
-# Help centre
+# Help Centre
 
-Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. If your issue is not listed here, or if you are still having problems, send an email to [support@ppy.sh](mailto:support@ppy.sh). Alternatively, consider posting your issue in the [Help forum](https://osu.ppy.sh/community/forums/5), where someone will be able to help you.
+Having trouble experiencing Zen? We're here to help. If these articles don't resolve your issue, please don't hesitate to post on the [Help Forum](https://zen.anekodot.lol/community/forums/5) or make a ticket in our Discord!
 
 ## Sections {id=sections}
 
@@ -17,34 +17,22 @@ Choose the section that matches your problem the most to find a suitable solutio
 
 | Section | Area of focus |
 | :-- | :-- |
-| [Account](/wiki/Help_centre/Account) | osu!supporter, sign-in and access recovery, name changes, profile data |
+| [Account](/wiki/Help_centre/Account) | zen!supporter, sign-in and access recovery, name changes, profile data |
 | [Account restrictions](/wiki/Help_centre/Account_restrictions) | All about restrictions: overview, appeal process, common reasons and cooldowns |
-| [Beatmapping and Editor](/wiki/Help_centre/Beatmapping) | Maintaining your beatmaps, beatmap ownership, beatmap slots |
-| [Client](/wiki/Help_centre/Client) | Bugs and crashes, gameplay, connection, performance |
-| [Installation and registration](/wiki/Help_centre/Installation_and_registration) | Downloading the game, creating an account |
-| [Store](/wiki/Help_centre/Store) | Merchandise |
 | [Tournament bans](/wiki/Help_centre/Tournament_bans) | All about tournament bans: overview, common reasons, and cooldowns |
-| [Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrating to the [next major release](/wiki/Client/Release_stream/Lazer) of osu! |
 | [Website](/wiki/Help_centre/Website) | Blocking users, contacting with the support, site appearance |
 
 ## Help us help you {id=diagnostics}
 
 ### Log files {id=log-files}
 
-**Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
+**Log files are our client's way of saying what caused the issue you're experiencing.**
 
-These files are extremely handy to have and can make solving even very complicated issues trivial.
+Log files help us figure out what exactly went wrong, and gives us the info we need to help you! Here's how to get them: 
 
-If a support team member has asked you for these logs, here's how to get them:
+**NOTE: These files can contain potentially sensitive information about your account or computer. Please don't share these with people outside the the zen!Staff team unless you know what you're looking for when going through the file.**
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
-4. Make sure it is set to `Cutting Edge (Experimental)`.
-5. Click the restart button that appears at the bottom of the screen if you made any changes to the release stream to apply them.
-6. Go to the `Options` menu again and click `Open osu! folder`.
-7. Find the `Logs` directory in the window that opens.
-8. Select the log file required (the support representative will tell you which), and attach it to your support ticket or forum post.
+#### **TODO**
 
 ### Event Viewer {id=event-viewer}
 
@@ -67,13 +55,4 @@ If a support team member has asked you to find a crash log in Event Viewer, here
 
 **The Frame Time Graph is a feature of osu! that can help us gather more useful information on performance issues you may be experiencing.**
 
-When faced with tricky performance issues in osu!, the Frame Time Graph is a good tool to help us diagnose the issue at hand, and help you find a solution to the issue.
-
-If a support team member has asked you to take a video or screenshot with the Frame Time Graph open, here's how to do it:
-
-1. Open osu!.
-2. Press `Ctrl` + `F11` to open the Frame Time Graph.
-3. Trigger or wait for the performance issue to occur.
-4. Take a screenshot by pressing `Shift` + `F12`. This will upload the screenshot to the osu! servers and will open the screenshot in a web browser tab.
-5. Copy and paste the link provided into your support ticket or forum post.
-6. Close the Frame Time Graph the same way you opened it, by pressing `Ctrl` + `F11`.
+#### **TODO**
